@@ -11,6 +11,8 @@ const Contact = () => {
         emailjs.sendForm('service_x49zjca', 'template_xfspx48', form.current, 'PyhSH_rK3wRZ8_idL')
           .then((result) => {
               console.log(result.text);
+              alert('Send Successfully')
+              
           }, (error) => {
               console.log(error.text);
           });
