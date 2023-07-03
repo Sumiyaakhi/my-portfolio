@@ -64,7 +64,7 @@ const Projects = () => {
               <button className=" btn bg-blue-400 px-4 py-2 text-white rounded-md ">
                 <Link
                   className="flex justify-center items-center"
-                  to=" https://sports-camp-8784f.web.app/"
+                  to="https://sports-camp-8784f.web.app/"
                 >
                   {" "}
                   LIVE SITE <TbWorldShare></TbWorldShare>{" "}
@@ -113,7 +113,7 @@ const Projects = () => {
               <button className=" btn bg-blue-400 px-4 py-2 text-white rounded-md ">
                 <Link
                   className="flex justify-center items-center"
-                  to=" https://princess-magic-615a1.web.app/"
+                  to="https://princess-magic-615a1.web.app/"
                 >
                   {" "}
                   LIVE SITE <TbWorldShare></TbWorldShare>{" "}
